@@ -1,0 +1,24 @@
+
+.neeche{
+  margin: 1px;
+  min-height: 50px;
+  background-color: orange;
+  text-align: left;
+  font-size: large;
+}
+
+.uparneeche{
+  margin: 0px;
+  min-height: 15px;
+
+  text-align: left;
+  font-size: large;
+}
+
+.alag{
+  margin: 0px;
+  min-height: 15px;
+
+  text-align: right;
+  font-size: small;
+}
